@@ -19,5 +19,3 @@ A dynamic web application for exploring kinetic sculpture patterns through color
    ```bash
    npm run dev
    ```
-
-The app will be available at [http://localhost:5173](http://localhost:5173)
